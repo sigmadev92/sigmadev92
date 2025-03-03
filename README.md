@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sigmadev92 (Devansh Raghuwanshi)
 - 👀 I’m interested in (Full Stack Web Development, Data Science and ML,Game development)
-- 🌱 I’m currently learning game dev.
 -  https://www.linkedin.com/in/devofficial
 
 <!---
